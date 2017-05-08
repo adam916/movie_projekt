@@ -1,0 +1,46 @@
+
+usecase:
+create movie
+
+primary actor:
+user.
+
+Main sucess scenario:
+-user opens system
+-user logs in to system
+-user chooses to create a movie from menu.
+-user types in relevant movie information
+-user submits
+
+
+--------------------------------------------------------------------
+
+Usecase:
+search for movie
+
+primary actor: 
+user
+
+Main sucess scenario:
+-user opens system
+-logs in to system
+-chooses to search for a movie in menu
+-types criteria
+-submits
+
+--------------------------------------------------------------------------------
+
+Usecase:
+delete movie
+
+primary actor:
+user
+
+Main sucess scenario:
+-user opens system
+-logs in
+-chooses to delete a movie
+-types in selected movie number
+-submits
+
+

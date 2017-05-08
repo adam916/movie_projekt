@@ -1,0 +1,16 @@
+Verb list: 
+Show
+login
+logout
+save
+search
+add
+print
+return
+
+noun list:
+database
+display
+system
+user
+movie
